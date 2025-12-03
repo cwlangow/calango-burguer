@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Poppins:wght@300;400;500;600;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --red: #B02A2A;
+    --green: #2F4F35;
+    --yellow: #FFB800;
+    --black: #1A1A1A;
+    --white: #FFF8EC;
+    --orange: #F28A2E;
+    --brown: #5C3B2E;
+    --beige: #F4E2C2;
+    --gradient: linear-gradient(90deg, var(--orange) 0%, var(--red) 100%);
+}
+
+header {
+    background-color: var(--beige);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}

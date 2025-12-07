@@ -7,20 +7,20 @@ O objetivo deste projeto é treinar HTML e CSS com foco em layout profissional, 
 
 - HTML5
 - CSS3
- -Google Fonts (Poppins, Bebas Neue, etc.)
+- Google Fonts (Poppins, Bebas Neue, etc.)
 - Font Awesome (ícones)
 - Imagens do Unsplash
 
 **🎨 Funcionalidades do Site**
 
-✔️ Cabeçalho fixo com navegação suave
-✔️ Hero com chamada principal
-✔️ Seção de atalhos com destaques
-✔️ Cardápio com cards animados e preços
-✔️ Botões de CTA (“Peça Agora”)
-✔️ Seção Sobre
-✔️ Layout responsivo e bem estruturado
-✔️ Estilo único com tema rústico e color palette personalizada
+- Cabeçalho fixo com navegação suave
+- Hero com chamada principal
+- Seção de atalhos com destaques
+- Cardápio com cards animados e preços
+- Botões de CTA (“Peça Agora”)
+- Seção Sobre
+- Layout responsivo e bem estruturado
+- Estilo único com tema rústico e color palette personalizada
 
 **🖼️ Prévia do Projeto**
 
